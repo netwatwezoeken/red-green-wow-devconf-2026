@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/FizzBuzz/FizzBuzz.csproj" />
+  <Project Path="tests/FizzBuzzTests/FizzBuzzTests.csproj" />
+</Solution>
