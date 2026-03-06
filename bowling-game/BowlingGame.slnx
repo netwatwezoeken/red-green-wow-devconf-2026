@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/BowlingGame.Core/BowlingGame.Core.csproj" />
+  <Project Path="tests/BowlingGame.Tests/BowlingGame.Tests.csproj" />
+</Solution>
