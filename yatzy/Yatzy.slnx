@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/Yatzy.Game/Yatzy.Game.csproj" />
+  <Project Path="tests/Yatzy.Tests/Yatzy.Tests.csproj" />
+</Solution>
