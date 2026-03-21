@@ -4,6 +4,4 @@ This repository contains starter projects for the "Red → Green → WOW: TDD in
 
 ## Prerequisites
 
-* .NET 10
-
-
+.NET 10 or Node.js
