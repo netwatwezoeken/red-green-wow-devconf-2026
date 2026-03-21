@@ -1,5 +1,1 @@
-﻿for (var i = 1; i <= 100; i++)
-{
-    Console.WriteLine(FizzBuzz.FizzBuzz.String(i));
-}
-
+﻿ Console.WriteLine("Nothing to see here, write a test first 🚀");

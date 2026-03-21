@@ -5,8 +5,8 @@ namespace FizzBuzzTests;
 public class FizzBuzzTests
 {
     [Fact]
-    public void foo()
+    public void Your_first_failing_test()
     {
-        Assert.Equal("fixme", FizzBuzz.FizzBuzz.String(3));
+        Assert.Equal("1", "2");
     }
 }
